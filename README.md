@@ -1,4 +1,4 @@
-# Capstone_Project_2_Retail_Sales_Prediction
+# Retail_Sales_Prediction
 
 Machine Learning Project type: Regression. (Completed)
 
